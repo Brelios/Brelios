@@ -21,14 +21,14 @@
 
 $ describe Atharv
 
-curious by default
-obsessive when interested
-creative when stuck
-practical when it matters
-always learning, building, exploring
+"curious by default"
+"obsessive when interested"
+"creative when stuck"
+"practical when it matters"
+"always learning, building, exploring"
 
-Builder. Breaker. Learner.
-Not here to follow the path — here to find one.
+"Builder. Breaker. Learner."
+"Not here to follow the path — here to find one."
 
 name:       "Atharv Thakare"
 role:       "CS Undergrad → Interested in Cloud / Software Engineering"
