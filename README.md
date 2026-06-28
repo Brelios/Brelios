@@ -33,7 +33,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-#### skills
+# *skills*
 
 **Languages**
 
