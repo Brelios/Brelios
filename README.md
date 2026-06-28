@@ -1,9 +1,5 @@
 
-
-
-
 <div align="center">
-
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer)
 ```
@@ -15,12 +11,9 @@
 ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=CS+Undergrad+%7C+Always+Curious;Breaking+things+on+purpose...;Always+learning%2C+always+building)](https://git.io/typing-svg)
-</div>
 
----
+</div>
 
 ### `$ whoami?`
 
