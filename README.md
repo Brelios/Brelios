@@ -34,7 +34,7 @@ $ describe Atharv
 name:       "Atharv Thakare"
 role:       "CS Undergrad → Interested in Cloud / Software Engineer"
 location:   "India"
-currently:  "Learning DSA with Java + exploring Cloud infrastructure"
+currently:  "Learning DSA + exploring Cloud infrastructure"
 goal:       "Land a product company role. Build things that scale."
 open_to:    ["Internships", "Collabs", "Open Source"]
 ```
