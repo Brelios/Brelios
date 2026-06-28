@@ -20,6 +20,7 @@
 ```yaml
 
 $ describe Atharv
+
 curious by default
 obsessive when interested
 creative when stuck
