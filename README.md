@@ -1,7 +1,8 @@
 
 <div align="center">
+  
+![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header)
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer)
 ```
 ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
 ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
@@ -10,7 +11,7 @@
 ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
 ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
-![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header)
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=CS+Undergrad+%7C+Always+Curious;Breaking+things+on+purpose...;Always+learning%2C+always+building)](https://git.io/typing-svg)
@@ -107,4 +108,5 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 [![GitHub followers](https://img.shields.io/github/followers/Brelios?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/Brelios)
 
+![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer)
 </div>
