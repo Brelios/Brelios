@@ -91,9 +91,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
   </tr>
 </table>
 
----
 
-### `$ top`
 
 ---
 <div align="center">
