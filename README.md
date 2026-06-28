@@ -56,24 +56,6 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-### roadmap
-
-```
-[✅] Python fundamentals
-[✅] C programming
-[✅] Linux command line
-[✅] Git & version control
-[✅] SQL basics
-[✅] Cloud exposure (AWS)
-[🔄] DSA with Java          ← currently here
-[⬜] AWS SAA-C03 cert
-[⬜] Docker & Kubernetes
-[⬜] CI/CD pipelines
-[⬜] Terraform / IaC
-[⬜] First cloud engineering role
-```
 
 ---
 
