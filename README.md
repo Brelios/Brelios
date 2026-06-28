@@ -66,15 +66,30 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-### `$ ./github-activity`
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Brelios/Brelios/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Brelios/Brelios/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Brelios/Brelios/output/github-contribution-grid-snake.svg" />
-</picture>
+### `$ ./projects`
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🧠 Opinion Meter</h3>
+      <p><code>Python</code> &nbsp; <code>NLP</code> &nbsp; <code>AI</code> &nbsp; <code>Data Viz</code></p>
+      <p>
+        An AI-powered sentiment analysis engine for product reviews — classifies sentiment, 
+        sorts and ranks products, visualizes trends, and surfaces recommendations based on 
+        aggregated user opinion data.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-2nd_Sem_Project-58a6ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-AI_%2F_NLP-FF9900?style=flat-square" />
+      </p>
+      <a href="https://github.com/Brelios/OPINION-METER-V1REMAKE">
+        <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
