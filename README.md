@@ -35,6 +35,8 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 # *skills*
 
+![Automation](https://img.shields.io/badge/Automation-3670A0?style=for-the-badge&logo=Automation&logoColor=ffdd54)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
