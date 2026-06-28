@@ -46,7 +46,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 **Currently Learning**
 
-![DSA](https://img.shields.io/badge/DSA_with_Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
