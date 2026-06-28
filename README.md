@@ -75,7 +75,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-### `$ ./github-activity`
+###github-activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -87,7 +87,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-### `$ ping me`
+###ping me
 
 > _"Still compiling... but shipping anyway."_
 
@@ -96,14 +96,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/YOUR_USERNAME)
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Brelios/Brelios/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Brelios/Brelios/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/Brelios/Brelios/output/github-contribution-grid-snake.svg" />
-</picture>
+
 
 
 
