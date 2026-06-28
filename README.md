@@ -64,7 +64,6 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
----
 
 ---
 
