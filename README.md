@@ -57,25 +57,6 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-### `$ cat roadmap.txt`
-
-```
-[✅] Python fundamentals
-[✅] C programming
-[✅] Linux command line
-[✅] Git & version control
-[✅] SQL basics
-[✅] Cloud exposure (AWS)
-[🔄] DSA with Java          ← currently here
-[⬜] AWS SAA-C03 cert
-[⬜] Docker & Kubernetes
-[⬜] CI/CD pipelines
-[⬜] Terraform / IaC
-[⬜] First cloud engineering role
-```
-
----
-
 ### `$ ./github-activity`
 
 <picture>
