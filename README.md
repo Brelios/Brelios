@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ```
@@ -10,7 +11,7 @@
 ```
 
 **`CS undergrad. Building in public. Breaking things on purpose.`**
-<div>
+</div>
 
 ---
 
