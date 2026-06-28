@@ -1,6 +1,8 @@
 
 <div align="center">
 
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer)
 ```
 ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
 ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
@@ -9,6 +11,8 @@
 ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
 ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
+![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header)
+
 
 **`CS undergrad. Building in public. Breaking things on purpose.`**
 </div>
