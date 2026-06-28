@@ -20,7 +20,7 @@
 
 ---
 
-### `$ whoami`
+### whoami
 
 ```yaml
 name:       "Atharv Thakare"
@@ -33,7 +33,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-### `$ ls ./skills`
+### skills
 
 **Languages**
 
