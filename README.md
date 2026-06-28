@@ -24,7 +24,7 @@
 
 ```yaml
 name:       "Atharv Thakare"
-role:       "CS Undergrad → Aspiring Cloud Architect/AIML Engineer"
+role:       "CS Undergrad → Interested in Cloud/Software Engineering"
 location:   "India"
 currently:  "Learning DSA with Java + exploring Cloud infrastructure"
 goal:       "Land a product company role. Build things that scale."
