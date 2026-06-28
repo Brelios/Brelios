@@ -20,7 +20,7 @@
 
 ---
 
-### whoami
+### *WhoAmI??*
 
 ```yaml
 name:       "Atharv Thakare"
@@ -56,7 +56,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-### `$ cat roadmap.txt`
+### roadmap
 
 ```
 [✅] Python fundamentals
@@ -75,7 +75,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-###github-activity
+### github-activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -87,7 +87,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-###ping me
+### ping me
 
 > _"Still compiling... but shipping anyway."_
 
