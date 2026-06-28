@@ -76,7 +76,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Brelios?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/Brelios)
 
 </div>
 
