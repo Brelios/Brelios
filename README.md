@@ -31,7 +31,7 @@ $ describe Atharv
 "Not here to follow the path — here to find one."
 
 name:       "Atharv Thakare"
-role:       "CS Undergrad → Interested in Cloud / Software Engineering"
+role:       "CS Undergrad → Interested in Cloud / Software Engineer"
 location:   "India"
 currently:  "Learning DSA with Java + exploring Cloud infrastructure"
 goal:       "Land a product company role. Build things that scale."
