@@ -76,7 +76,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 </div>
 
 ---
-
+<div align="center">
 ### `$ ping me`
 
  *"Still compiling... but shipping anyway."*
@@ -87,7 +87,7 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 </div>
 
-<div align="center">
+
 
 [![GitHub followers](https://img.shields.io/github/followers/Brelios?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/Brelios)
 
