@@ -19,7 +19,7 @@
 
 ---
 
-### `$ whoami`
+### `$ whoami?`
 
 ```yaml
 name:       "Atharv Thakare"
