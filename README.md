@@ -94,13 +94,6 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ### `$ top`
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brelios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-
-</div>
-
 ---
 <div align="center">
 ### `$ ping me`
