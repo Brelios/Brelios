@@ -8,7 +8,6 @@
    ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
    
 </div>
-```
 
 **`CS undergrad. Building in public. Breaking things on purpose.`**
 
