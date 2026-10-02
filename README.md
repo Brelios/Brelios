@@ -1,65 +1,78 @@
-
 <div align="center">
-  
-![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header)
 
-```
-██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
-██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
-██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
-╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=4CC2F1&height=180&section=header&text=Brelios&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Adventurer%20%7C%20CS%20Undergrad%20%7C%20Hydro%20Vision%20Holder&descAlignY=60&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6C36A&center=true&width=620&lines=Adventure+Rank%3A+CS+Undergrad;Exploring+the+Cloud+like+it's+Teyvat;Breaking+things+on+purpose...;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=CS+Undergrad+%7C+Always+Curious;Breaking+things+on+purpose...;Always+learning%2C+always+building)](https://git.io/typing-svg)
+---
 
-### `$ whoami?`
+### `✦ Adventurers' Guild · Registration Card`
 
-```yaml
-
-$ describe Atharv
-
-"curious by default"
-"obsessive when interested"
-"creative when stuck"
-"practical when it matters"
-"always learning, building, exploring"
-
-"Builder. Breaker. Learner."
-"Not here to follow the path — here to find one."
-
-name:       "Atharv Thakare"
-role:       "CS Undergrad → Interested in Cloud / Software Engineer"
-location:   "India"
-currently:  "Learning DSA + exploring Cloud infrastructure"
-goal:       "Land a product company role. Build things that scale."
-open_to:    ["Internships", "Collabs", "Open Source"]
+```
+╔════════════════════════════════════════════╗
+║  ADVENTURERS' GUILD · REGISTRATION CARD    ║
+╠════════════════════════════════════════════╣
+║  Name      : Atharv Thakare (Brelios)      ║
+║  Class     : CS Undergrad                  ║
+║  Region    : India                         ║
+║  Path      : Cloud / Software Engineer     ║
+║  Vision    : Hydro (flows around bugs)     ║
+║  Goal      : Product company role          ║
+║  Status    : Exploring. Always.            ║
+╚════════════════════════════════════════════╝
 ```
 
 ---
 
-### `$ ls ./skills`
+### `✦ Character Profile`
 
-**Languages**
+```yaml
+title:        "Builder. Breaker. Learner."
+motto:        "Not here to follow the path, here to find one."
+playstyle:
+  - "curious by default"
+  - "obsessive when interested"
+  - "creative when stuck"
+  - "practical when it matters"
+current_quest: "Learning DSA + exploring Cloud infrastructure"
+final_goal:    "Land a product company role. Build things that scale."
+open_to:       ["Internships", "Collabs", "Open Source"]
+```
+
+---
+
+### `✦ Talents`
+
+| Talent | Skill |
+|:--|:--|
+| **Normal Attack** | Python, C, Java |
+| **Elemental Skill** | Bash + Linux CLI |
+| **Elemental Burst** | Artificial Intelligence + NLP |
+| **Passive** | Breaking things on purpose, then fixing them |
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white)
 
-**Tools & Platforms**
+---
+
+### `✦ Artifact Set: Tools & Platforms`
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white)
 
-**Currently Learning**
+---
+
+### `✦ Farming Domains (Currently Learning)`
+
+> Spending my Original Resin on:
 
 ![DSA](https://img.shields.io/badge/DSA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -67,8 +80,9 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
-
 ---
+
+### `✦ Exploration Progress`
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -80,43 +94,43 @@ open_to:    ["Internships", "Collabs", "Open Source"]
 
 ---
 
-### `$ ./projects`
+### `✦ Active Quests (Projects)`
 
 <table>
   <tr>
     <td width="100%">
-      <h3>🧠 Opinion Meter</h3>
+      <h3>🧠 Opinion Meter <sub>· World Quest</sub></h3>
       <p><code>Python</code> &nbsp; <code>NLP</code> &nbsp; <code>AI</code> &nbsp; <code>Data Viz</code></p>
       <p>
-        An AI-powered sentiment analysis engine for product reviews — classifies sentiment, 
-        sorts and ranks products, visualizes trends, and surfaces recommendations based on 
+        An AI-powered sentiment analysis engine for product reviews. It classifies sentiment,
+        sorts and ranks products, visualizes trends, and surfaces recommendations based on
         aggregated user opinion data.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Status-2nd_Sem_Project-58a6ff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-AI_%2F_NLP-FF9900?style=flat-square" />
+        <img src="https://img.shields.io/badge/Quest_Type-2nd_Sem_Project-4CC2F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Element-AI_%2F_NLP-E6C36A?style=flat-square" />
       </p>
       <a href="https://github.com/Brelios/OPINION-METER-V1REMAKE">
-        <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Accept_Quest-0d1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
 
-
-
 ---
-<div align="center">
-### `$ ping me`
 
- *"Still compiling... but shipping anyway."*
+<div align="center">
+
+### `✦ Send a Message by Serenitea Pot Mail`
+
+*"Still compiling... but shipping anyway."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-thakare-194139380/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brelios)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=atharv1792006@gmail.com)
 
+[![GitHub followers](https://img.shields.io/github/followers/Brelios?style=for-the-badge&logo=github&color=4CC2F1)](https://github.com/Brelios)
 
-[![GitHub followers](https://img.shields.io/github/followers/Brelios?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/Brelios)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4CC2F1&height=120&section=footer)
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer)
 </div>
