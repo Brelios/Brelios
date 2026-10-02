@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4CC2F1&height=180&section=header&text=Brelios&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Adventurer%20%7C%20CS%20Undergrad%20%7C%20Hydro%20Vision%20Holder&descAlignY=60&descSize=18)
+<img src="./assets/banner.png" alt="Brelios banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6C36A&center=true&width=620&lines=Adventure+Rank%3A+CS+Undergrad;Exploring+the+Cloud+like+it's+Teyvat;Breaking+things+on+purpose...;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
