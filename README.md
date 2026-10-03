@@ -142,9 +142,11 @@ open_to:       ["Internships", "Collabs", "Open Source"]
 
 <div align="center">
 
+*"Still compiling... but shipping anyway."*
+
 ### `✦ Send a Message by Serenitea Pot Mail`
 
-*"Still compiling... but shipping anyway."*
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-thakare-194139380/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brelios)
