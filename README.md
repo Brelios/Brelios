@@ -1,8 +1,6 @@
 <div align="center">
 
-
-<img src="./assets/banner.png" alt="Brelios banner" width="100%" /> 
-
+<img src="./assets/banner.png" alt="Brelios banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6C36A&center=true&width=620&lines=Adventure+Rank%3A+CS+Undergrad;Exploring+the+Cloud+like+it's+Teyvat;Breaking+things+on+purpose...;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
@@ -114,6 +112,27 @@ open_to:       ["Internships", "Collabs", "Open Source"]
       </p>
       <a href="https://github.com/Brelios/OPINION-METER-V1REMAKE">
         <img src="https://img.shields.io/badge/Accept_Quest-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🏭 Satisfactory Factory Blueprint Builder <sub>· Side Quest</sub></h3>
+      <p><code>Python</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Next.js</code> &nbsp; <code>Graph Visualization</code></p>
+      <p>
+        A factory planner for Satisfactory. Give it your ore supply or a target product and it
+        solves for machine counts, clock speeds and power use, then draws the production graph
+        with belts, splitters and alternate recipe comparison.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Quest_Type-Personal_Project-4CC2F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Element-Optimization_%2F_Full_Stack-E6C36A?style=flat-square" />
+      </p>
+      <a href="https://satisfactoryfactorymanagementsystem.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
   </tr>
