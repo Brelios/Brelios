@@ -138,6 +138,27 @@ open_to:       ["Internships", "Collabs", "Open Source"]
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100%">
+      <h3>📷 Edge AI Smart Door Feed <sub>· Side Quest</sub></h3>
+      <p><code>C++</code> &nbsp; <code>ESP32-CAM</code> &nbsp; <code>PlatformIO</code> &nbsp; <code>Gemini API</code> &nbsp; <code>IoT</code></p>
+      <p>
+        An ultra-lightweight, event-driven door camera on an ESP32-CAM. It sleeps in deep sleep until
+        a PIR sensor detects motion, snaps a frame, and sends it to a multimodal cloud LLM that writes
+        a natural-language summary of doorstep activity, delivered straight to Telegram. It
+        auto-detects PSRAM to pick the capture resolution and self-heals the camera sensor on boot.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Quest_Type-3rd_Sem_Project-4CC2F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Element-Embedded_%2F_Edge_AI-E6C36A?style=flat-square" />
+      </p>
+      <a href="https://github.com/Brelios/Edge-AI-SDF">
+        <img src="https://img.shields.io/badge/Accept_Quest-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
